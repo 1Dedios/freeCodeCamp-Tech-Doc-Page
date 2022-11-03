@@ -1,0 +1,19 @@
+textarea {
+  height: 100px;
+  width: 300px;
+  border: none;
+  background: #faf7f0;
+}
+
+h1 > a {
+  text-decoration: none;
+  color: black;
+  hover: none;
+}
+
+h1 > a:hover {
+  text-decoration: none;
+  color: black;
+  hover: none;
+}
+
